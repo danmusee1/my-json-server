@@ -6,8 +6,728 @@
     "email":"dmusee@gmail.com",
     "file":""
 
-  }
+  },
  
+  "leaseAgreements": [
+    {
+      "id": 1,
+      "name": "eActross 600",
+      "contract": "W912HN-01-C-0022 0034.",
+      "balance": 323232,
+      "nextRepayment":"12-02-2024",
+      "amount":156790.10,
+      "penaltyAmount":0,
+      "advanceAmount":10000,
+
+      "outstandingBalance":1000,
+      "installmentAreas":100,
+      "serviceCharge":100,
+      "lastTransaction": [
+        {
+          "id": 1,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 2,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 3,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 4,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 5,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 6,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 7,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 8,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "eActross 600",
+      "contract": "W912HN-01-C-0022 0034.",
+      "balance": 323232,
+      "nextRepayment":"12-02-2024",
+      "amount":156790.10,
+      "penaltyAmount":0,
+      "advanceAmount":10000,
+
+       "outstandingBalance":1000,
+      "installmentAreas":100,
+      "serviceCharge":100,
+      "lastTransaction": [
+        {
+          "id": 1,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 2,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 3,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 4,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 5,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 6,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 7,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 8,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "eActross 600",
+      "contract": "W912HN-01-C-0022 0034.",
+      "balance": 323232,
+      "nextRepayment":"12-02-2024",
+      "amount":156790.10,
+      "penaltyAmount":0,
+      "advanceAmount":10000,
+
+       "outstandingBalance":1000,
+      "installmentAreas":100,
+      "serviceCharge":100,
+      "lastTransaction": [
+        {
+          "id": 1,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 2,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 3,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 4,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 5,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 6,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 7,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 8,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "eActross 600",
+      "contract": "W912HN-01-C-0022 0034.",
+      "balance": 323232,
+      "nextRepayment":"12-02-2024",
+      "amount":156790.10,
+      "penaltyAmount":0,
+      "advanceAmount":10000,
+
+       "outstandingBalance":1000,
+      "installmentAreas":100,
+      "serviceCharge":100,
+      "lastTransaction": [
+        {
+          "id": 1,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 2,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 3,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 4,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 5,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 6,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 7,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 8,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "eActross 600",
+      "contract": "W912HN-01-C-0022 0034.",
+      "balance": 323232,
+      "nextRepayment":"12-02-2024",
+      "amount":156790.10,
+      "penaltyAmount":0,
+      "advanceAmount":10000,
+
+       "outstandingBalance":1000,
+      "installmentAreas":100,
+      "serviceCharge":100,
+      "lastTransaction": [
+        {
+          "id": 1,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 2,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 3,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 4,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 5,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 6,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 7,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 8,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "eActross 600",
+      "contract": "W912HN-01-C-0022 0034.",
+      "balance": 323232,
+      "nextRepayment":"12-02-2024",
+      "amount":156790.10,
+      "penaltyAmount":0,
+      "advanceAmount":10000,
+
+       "outstandingBalance":1000,
+      "installmentAreas":100,
+      "serviceCharge":100,
+      "lastTransaction": [
+        {
+          "id": 1,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 2,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 3,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 4,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 5,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 6,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 7,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        },
+        {
+          "id": 8,
+          "amount": 200000,
+          "paymentType":"Bankslip payment",
+          "date": "12-02-2024",
+          "ref": 12375993844
+        }
+      ]
+    }
+  ],
+
+  "lastTransaction": [
+    {
+      "id": 1,
+      "amount": 200000,
+      "paymentType":"Bankslip payment",
+      "date": "12-02-2024",
+      "ref": 12375993844
+    },
+    {
+      "id": 2,
+      "amount": 200000,
+      "paymentType":"Bankslip payment",
+      "date": "12-02-2024",
+      "ref": 12375993844
+    },
+    {
+      "id": 3,
+      "amount": 200000,
+      "paymentType":"Bankslip payment",
+      "date": "12-02-2024",
+      "ref": 12375993844
+    },
+    {
+      "id": 4,
+      "amount": 200000,
+      "paymentType":"Bankslip payment",
+      "date": "12-02-2024",
+      "ref": 12375993844
+    },
+    {
+      "id": 5,
+      "amount": 200000,
+      "paymentType":"Bankslip payment",
+      "date": "12-02-2024",
+      "ref": 12375993844
+    },
+    {
+      "id": 6,
+      "amount": 200000,
+      "paymentType":"Bankslip payment",
+      "date": "12-02-2024",
+      "ref": 12375993844
+    },
+    {
+      "id": 7,
+      "amount": 200000,
+      "paymentType":"Bankslip payment",
+      "date": "12-02-2024",
+      "ref": 12375993844
+    },
+    {
+      "id": 8,
+      "amount": 200000,
+      "paymentType":"Bankslip payment",
+      "date": "12-02-2024",
+      "ref": 12375993844
+    }
+  ],
+
+  "invoices": [
+    {
+      "id": 1,
+      "refno": "#00100-12345",
+      "contract": "W912HN-01-C-0022 0034.",
+      "supplier":"CMC Motors",
+      "description":"Rav4 Japan",
+      "amount":156790.10
+    },
+    {
+      "id": 2,
+      "refno": "#00100-12345",
+      "contract": "W912HN-01-C-0022 0034.",
+      "supplier":"CMC Motors",
+      "description":"Rav4 Japan",
+      "amount":156790.10
+    },
+    {
+      "id": 3,
+      "refno": "#00100-12345",
+      "contract": "W912HN-01-C-0022 0034.",
+      "supplier":"CMC Motors",
+      "description":"Rav4 Japan",
+      "amount":156790.10
+    },
+    {
+      "id": 4,
+      "refno": "#00100-12345",
+      "contract": "W912HN-01-C-0022 0034.",
+      "supplier":"CMC Motors",
+      "description":"Rav4 Japan",
+      "amount":156790.10
+    },
+    {
+      "id": 5,
+      "refno": "#00100-12345",
+      "contract": "W912HN-01-C-0022 0034.",
+      "supplier":"CMC Motors",
+      "description":"Rav4 Japan",
+      "amount":156790.10
+    },
+    {
+      "id": 6,
+      "refno": "#00100-12345",
+      "contract": "W912HN-01-C-0022 0034.",
+      "supplier":"CMC Motors",
+      "description":"Rav4 Japan",
+      "amount":156790.10
+    }
+
+  ],
+  "statements": [
+    {
+      "id": 1,
+      "refno": "#00100-12345",
+      "contract": "W912HN-01-C-0022 0034.",
+      "type":"Full Statement",
+      "startDate":"01/01/2023",
+      "endDate":"01/01/2024"
+    },
+    {
+      "id": 2,
+      "refno": "#00100-12345",
+      "contract": "W912HN-01-C-0022 0034.",
+      "type":"Full Statement",
+      "startDate":"01/01/2023",
+      "endDate":"01/01/2023"
+    },
+    {
+      "id": 3,
+      "refno": "#00100-12345",
+      "contract": "W912HN-01-C-0022 0034.",
+      "type":"Full Statement",
+      "startDate":"01/01/2023",
+      "endDate":"01/01/2023"
+    },
+    {
+      "id": 4,
+      "refno": "#00100-12345",
+      "contract": "W912HN-01-C-0022 0034.",
+      "type":"Full Statement",
+      "startDate":"01/01/2023",
+      "endDate":"01/01/2023"
+    },
+    {
+      "id": 5,
+      "refno": "#00100-12345",
+      "contract": "W912HN-01-C-0022 0034.",
+      "type":"Full Statement",
+      "startDate":"01/01/2023",
+      "endDate":"01/01/2023"
+    },
+    {
+      "id": 6,
+      "refno": "#00100-12345",
+      "contract": "W912HN-01-C-0022 0034.",
+      "type":"Full Statement",
+      "startDate":"01/01/2023",
+      "endDate":"01/01/2023"
+    }
+
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Pending"
+    },
+    {
+      "id": 2,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Pending"
+    },
+    {
+      "id": 3,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Pending"
+    },
+    {
+      "id": 4,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Pending"
+    },
+    {
+      "id": 5,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Accepted"
+    },
+    {
+      "id": 6,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Accepted"
+    },
+    {
+      "id": 7,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Accepted"
+    },
+    {
+      "id": 8,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Accepted"
+    },
+    {
+      "id": 9,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Accepted"
+    },
+    {
+      "id": 10,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Accepted"
+    },
+    {
+      "id": 11,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Rejected"
+    },
+    {
+      "id": 12,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Rejected"
+    },
+    {
+      "id": 13,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Rejected"
+    },
+    {
+      "id": 14,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Rejected"
+    },
+    {
+      "id": 15,
+      "refno": "#00100-12345",
+      "name": "Lease reschedule",
+      "type":"Lease Rescheduling",
+      "submittionDate":"01/01/2023",
+      "status":"Rejected"
+    }
+
+  ]
+
 
 
 }
